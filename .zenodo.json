@@ -1,0 +1,29 @@
+{
+  "title": "Tri-Modal Antifungal Catheter Lock (TCL): Open Proof of Invention",
+  "upload_type": "dataset",
+  "description": "LaTeX sources, figures, and compiled PDF for the public disclosure of the Tri-Modal Catheter Lock (TCL) addressing Candida auris biofilms. Includes workflow schematics and manufacturing/spec documentation for reproducibility.",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science",
+      "orcid": "0009-0008-5616-7746"
+    }
+  ],
+  "keywords": [
+    "Candida auris",
+    "catheter lock",
+    "echinocandin",
+    "beta-1,3-glucanase",
+    "gallium",
+    "EDTA",
+    "CRISPR Cas12",
+    "public health",
+    "infection control"
+  ],
+  "license": "cc-by-4.0",
+  "related_identifiers": [],
+  "notes": "Documentation under CC BY 4.0. Code under MIT. See LICENSES/.",
+  "communities": [],
+  "access_right": "open",
+  "language": "eng"
+}
