@@ -1,58 +1,41 @@
-cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
-title: "Tri-Modal Antifungal Catheter Lock (TCL): Proof of Invention Record"
-version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"
-date-released: "2025-11-12"
-
-authors:
-  - family-names: "Valamontes"
-    given-names: "Antonios"
-    affiliation: "Kapodistrian Academy of Science"
-    email: "avalamontes@kapodistrian.edu.gr"
-    orcid: "https://orcid.org/0009-0008-5616-7746"
-  - family-names: "Adamopoulos"
-    given-names: "Ioannis"
-    affiliation: "Public Health and Environmental Inspector, Department of Environmental Hygiene and Public Health Inspections, Region of Attica, Hellenic Republic"
-
-abstract: >
-  This record discloses the Tri-Modal Antifungal Catheter Lock (TCL),
-  a non-systemic antifungal formulation combining three synergistic mechanisms:
-  (1) echinocandin antifungal inhibition of β-glucan synthase,
-  (2) β-1,3-glucanase enzymatic digestion of extracellular matrix polysaccharides,
-  and (3) gallium(III)/EDTA complex-induced iron substitution disrupting
-  metabolic integrity of fungal biofilms. Together, these interactions produce
-  ≥3-log biofilm reduction within 90 minutes without catheter degradation.
-  The proof of invention establishes timestamped prior-art protection
-  for open scientific disclosure and non-commercial research collaboration.
-
-keywords:
-  - Candida auris
-  - biofilm
-  - catheter lock
-  - echinocandin
-  - β-1,3-glucanase
-  - gallium
-  - EDTA
-  - infection control
-  - public health
-
-repository-code: "https://github.com/Galactic-Code-Developers/Tri-Modal-Catheter-Lock-TCL"
-license: "CC-BY-NC-4.0"
-license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
-type: "software"
-
-preferred-citation:
-  type: article
-  authors:
-    - family-names: "Valamontes"
-      given-names: "Antonios"
-    - family-names: "Adamopoulos"
-      given-names: "Ioannis"
-  title: "Tri-Modal Antifungal Catheter Lock (TCL): Proof of Invention Record"
-  journal: "Kapodistrian Academy of Science"
-  year: 2025
-  doi: "10.5281/zenodo.XXXXXXX"
-  url: "https://doi.org/10.5281/zenodo.XXXXXXX"
-
-
+{
+  "title": "Tri-Modal Antifungal Catheter Lock (TCL): Proof of Invention Record",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "<p>Open scientific disclosure and LaTeX documentation for the <b>Tri-Modal Antifungal Catheter Lock (TCL)</b> — a non-systemic antifungal catheter lock combining three synergistic mechanisms: (1) echinocandin inhibition of β-glucan synthase, (2) β-1,3-glucanase enzymatic digestion of the extracellular matrix, and (3) gallium(III)/EDTA complex-induced iron substitution disrupting fungal metabolic integrity. Together, these mechanisms produce ≥3-log biofilm reduction within 90 minutes without catheter degradation.</p>",
+  "creators": [
+    {
+      "name": "Valamontes, Antonios",
+      "affiliation": "Kapodistrian Academy of Science",
+      "orcid": "0009-0008-5616-7746"
+    },
+    {
+      "name": "Adamopoulos, Ioannis",
+      "affiliation": "Public Health and Environmental Inspector, Department of Environmental Hygiene and Public Health Inspections, Region of Attica, Hellenic Republic"
+    }
+  ],
+  "keywords": [
+    "Candida auris",
+    "biofilm",
+    "catheter lock",
+    "echinocandin",
+    "β-1,3-glucanase",
+    "gallium",
+    "EDTA",
+    "infection control",
+    "public health"
+  ],
+  "language": "eng",
+  "license": "cc-by-nc-4.0",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/Galactic-Code-Developers/Tri-Modal-Catheter-Lock-TCL",
+      "scheme": "url"
+    }
+  ],
+  "notes": "This record constitutes timestamped prior-art disclosure for open scientific collaboration. Commercial manufacturing or distribution of TCL formulations requires prior written authorization. Contact avalamontes@kapodistrian.edu.gr for licensing inquiries.",
+  "version": "1.0.0",
+  "publication_date": "2025-11-12"
+}
