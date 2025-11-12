@@ -29,5 +29,25 @@ This repository serves as an official timestamped record of invention for open s
 
 ---
 
+## 🔬 Scientific Summary
+
+### Mechanism of Action
+
+| Component                 | Target               | Function                            |
+| ------------------------- | -------------------- | ----------------------------------- |
+| Echinocandin (micafungin) | β-glucan synthase    | Disrupts fungal cell wall synthesis |
+| β-1,3-Glucanase           | Extracellular matrix | Liquefies polysaccharide ECM        |
+| Ga³⁺ + EDTA               | Metal metabolism     | Iron substitution & chelation       |
+
+This tri-modal mechanism produces a **superlinear reduction** in residual viability:
+
+\[
+\Phi_{\text{TCL}} = \eta_{\text{ech}} \cdot \eta_{\text{enz}} \cdot \left( 1 - \frac{[Fe^{3+}]_{\text{biofilm}}}{[Fe^{3+}]_0} \right)
+\]
+
+Where the combined inhibition terms result in complete matrix collapse and ≥3-log biofilm reduction within 90 minutes.
+
+---
+
 ## 🧩 Repository Structure
 
