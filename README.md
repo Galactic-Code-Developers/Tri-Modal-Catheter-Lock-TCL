@@ -1,6 +1,18 @@
 # Tri-Modal-Catheter-Lock-TCL  
 **Tri-Modal Antifungal Catheter Lock (TCL): Proof of Invention Record**
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17589267.svg)](https://doi.org/10.5281/zenodo.17589267)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC--BY--NC%204.0-blue.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+---
+
+# Tri-Modal Antifungal Catheter Lock (TCL)
+**Proof of Invention Record — Kapodistrian Academy of Science**
+
+This repository is permanently archived on **Zenodo**:  
+🔗 [https://doi.org/10.5281/zenodo.17589267](https://doi.org/10.5281/zenodo.17589267)
+
+
 ---
 
 ## 📘 Overview
