@@ -1,28 +1,98 @@
-# LaTeX
+# ==============================
+# Tri-Modal-Catheter-Lock-TCL Repository
+# Ignore rules for LaTeX, OS, and build artifacts
+# ==============================
+
+# --- LaTeX intermediate files ---
 *.aux
 *.bbl
+*.bcf
 *.blg
-*.log
-*.out
-*.toc
+*.brf
+*.idx
+*.ilg
+*.ind
 *.lof
+*.log
 *.lot
-*.fls
-*.fdb_latexmk
-*.synctex.gz
 *.nav
-*.snm
-*.vrb
-*.xdv
+*.out
 *.run.xml
-auto/
-_build/
-_build*/
+*.snm
+*.synctex.gz
+*.toc
+*.fdb_latexmk
+*.fls
 *.pdfsync
+*.xdv
 
-# OS/editor
+# --- PDF build outputs (keep only the final proof) ---
+paper/*.pdf
+!paper/TCL_Proof_of_Invention.pdf
+
+# --- Temporary and cache files ---
+*.tmp
+*.bak
+*.swp
+*.swo
+*~
 .DS_Store
 Thumbs.db
-*.swp
-.idea/
+
+# --- Python / notebook temporary files (if analysis scripts are added later) ---
+__pycache__/
+*.ipynb_checkpoints
+*.egg-info/
+
+# --- macOS / Linux system files ---
+._*
+.Trashes
+.Spotlight-V100
+.fseventsd
+.AppleDouble
+.VolumeIcon.icns
+
+# --- VSCode, TeXStudio, Overleaf local metadata ---
 .vscode/
+*.synctex(busy)
+*.texpadtmp
+*.texproject
+
+# --- Build tools and logs ---
+latex.out/
+build/
+dist/
+logs/
+*.log.*
+
+# --- Git & Zenodo housekeeping ---
+*.lock
+*.bak
+*.old
+*.orig
+*.rej
+*.save
+*.swp
+*.swo
+
+# --- Data staging (keep only committed CSVs) ---
+data/raw/
+data/tmp/
+data/*.bak
+data/*.zip
+
+# --- Figures (keep only PNG/SVG used in paper) ---
+figures/*.tmp
+figures/*.bak
+figures/*.xcf
+figures/*.psd
+figures/*.ai
+figures/*.eps
+figures/*.pdf
+
+# --- Allow explicitly whitelisted files ---
+!.gitkeep
+!.zenodo.json
+!LICENSES/
+!README.md
+!CITATION.cff
