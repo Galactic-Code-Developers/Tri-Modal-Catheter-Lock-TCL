@@ -1,20 +1,16 @@
-## 2) `CITATION.cff`
-```yaml
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
+message: "If you use this work for research or teaching, please cite it."
 title: "Tri-Modal Antifungal Catheter Lock (TCL): Open Proof of Invention"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"   # replace after first Zenodo release
 date-released: "2025-11-11"
 authors:
   - family-names: "Valamontes"
     given-names: "Antonios"
     affiliation: "Kapodistrian Academy of Science"
     email: "avalamontes@kapodistrian.edu.gr"
-    orcid: "https://orcid.org/0009-0008-5616-7746"
-repository-code: "https://github.com/<your-username>/Tri-Modal-Catheter-Lock-TCL"
+    orcid: "https://orcid.org/0000-0002-XXXX-YYYY"
 license: "CC-BY-NC-4.0"
-message: "If you use this work for research or teaching, please cite it. For any commercial use, contact avalamontes@kapodistrian.edu.gr for licensing."
+repository-code: "https://github.com/<your-username>/Tri-Modal-Catheter-Lock-TCL"
 keywords:
   - Candida auris
   - catheter lock
@@ -24,3 +20,7 @@ keywords:
   - EDTA
   - CRISPR Cas12
   - public health
+abstract: >
+  LaTeX sources, figures, and compiled PDF for the public disclosure of the
+  Tri-Modal Catheter Lock (TCL) addressing Candida auris biofilms. Non-commercial
+  research use only. For commercial licensing, contact avalamontes@kapodistrian.edu.gr.
