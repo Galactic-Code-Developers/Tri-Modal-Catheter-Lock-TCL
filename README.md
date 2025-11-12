@@ -51,3 +51,28 @@ Where the combined inhibition terms result in complete matrix collapse and ≥3-
 
 ## 🧩 Repository Structure
 
+## 📫 Contact
+
+For collaboration, non-commercial research use, or commercial licensing discussions:
+
+**Antonios Valamontes**  
+Kapodistrian Academy of Science  
+📧 [avalamontes@kapodistrian.edu.gr](mailto:avalamontes@kapodistrian.edu.gr)
+
+---
+
+## 🧾 Acknowledgment
+
+Witnessed and independently verified by  
+**Dr. Ioannis Adamopoulos**,  
+Public Health and Environmental Inspector,  
+Department of Environmental Hygiene and Public Health Inspections,  
+Region of Attica, Hellenic Republic.
+
+---
+
+## 🧠 Keywords
+
+`Candida auris` • `biofilm` • `catheter lock` • `echinocandin` • `β-1,3-glucanase` • `gallium` • `EDTA` • `infection control` • `public health`
+
+
