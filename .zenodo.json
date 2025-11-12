@@ -1,11 +1,10 @@
-# CITATION.cff for Tri-Modal Antifungal Catheter Lock (TCL)
-# Compatible with GitHub & Zenodo DOI export
 cff-version: 1.2.0
 message: "If you use this work, please cite it as below."
 title: "Tri-Modal Antifungal Catheter Lock (TCL): Proof of Invention Record"
 version: "1.0.0"
-doi: "10.5281/zenodo.XXXXXXX"   # Replace with actual DOI after Zenodo minting
+doi: "10.5281/zenodo.XXXXXXX"
 date-released: "2025-11-12"
+
 authors:
   - family-names: "Valamontes"
     given-names: "Antonios"
@@ -42,6 +41,7 @@ repository-code: "https://github.com/Galactic-Code-Developers/Tri-Modal-Catheter
 license: "CC-BY-NC-4.0"
 license-url: "https://creativecommons.org/licenses/by-nc/4.0/"
 type: "software"
+
 preferred-citation:
   type: article
   authors:
