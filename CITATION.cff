@@ -8,9 +8,9 @@ authors:
     given-names: "Antonios"
     affiliation: "Kapodistrian Academy of Science"
     email: "avalamontes@kapodistrian.edu.gr"
-    orcid: "https://orcid.org/0000-0002-XXXX-YYYY"
+    orcid: "https://orcid.org/0009-0008-5616-7746"
 license: "CC-BY-NC-4.0"
-repository-code: "https://github.com/<your-username>/Tri-Modal-Catheter-Lock-TCL"
+repository-code: "https://github.com/Galactic-Code-Developers/Tri-Modal-Catheter-Lock-TC"
 keywords:
   - Candida auris
   - catheter lock
