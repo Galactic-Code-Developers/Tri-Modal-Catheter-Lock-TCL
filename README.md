@@ -41,9 +41,9 @@ This repository serves as an official timestamped record of invention for open s
 
 This tri-modal mechanism produces a **superlinear reduction** in residual viability:
 
-\[
-\Phi_{\text{TCL}} = \eta_{\text{ech}} \cdot \eta_{\text{enz}} \cdot \left( 1 - \frac{[Fe^{3+}]_{\text{biofilm}}}{[Fe^{3+}]_0} \right)
-\]
+$$
+\Phi_{\mathrm{TCL}} = \eta_{\mathrm{ech}} \cdot \eta_{\mathrm{enz}} \cdot \left( 1 - \frac{[Fe^{3+}]_{\mathrm{biofilm}}}{[Fe^{3+}]_{0}} \right)
+$$
 
 Where the combined inhibition terms result in complete matrix collapse and ≥3-log biofilm reduction within 90 minutes.
 
